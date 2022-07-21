@@ -1,0 +1,18 @@
+#header {
+    color: blue;
+    font-size: 35px;
+    margin-left: 400px;
+    margin-bottom: 400px;
+
+    
+}
+
+#lmao {
+    border: solid 3px red;
+	color: red;
+	width: 500px;
+	margin: 0 auto;
+	text-align: center;
+	 
+	
+}

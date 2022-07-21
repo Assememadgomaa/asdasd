@@ -1,0 +1,101 @@
+body{
+	background: black;
+	background-image: url(Capture.PNG);
+}
+
+#all{
+	margin: 0 auto;
+	padding: 0 ;
+	text-align: center;
+}
+
+
+#header{
+	background: red;
+	padding: 5px;
+
+}
+
+header h1{
+	color: white;
+	background: red;
+}
+
+#npara{
+	color: white;
+}
+
+
+#lmao {
+    border: solid 3px red;
+	color: red;
+	width: 500px;
+	margin: 0 auto;
+	text-align: center;
+	 
+	
+}
+
+#themain{
+	color: purple;
+	font-family: inherit;
+	font-size: 20px;
+}
+
+#photo{ 
+	 background-image: url('Capture.PNG');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+#footer{
+	margin-top: 550px;
+	color: white;
+}
+
+#rid{
+	color: darkgreen;
+	font-size: 600px;
+
+}
+
+#nomorelies{
+	color: darkred;
+	font-size: 450px;
+
+}
+
+#center{
+	color: darkred;
+	font-size: 300px;
+}	
+
+#bot{
+	color: darkred;
+	font-size: 450px;
+}
+#music{
+	margin-left: 900px;
+	
+}
+
+#ride{
+	color: darkgreen;
+	font-size: 300px;
+}
+
+#vengance h1{
+ 	color: red;
+ 	font-size: 100px;
+ 	padding: 200px;
+ }
+
+
+
+
+
+
+
+
+
